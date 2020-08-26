@@ -1,4 +1,4 @@
-### Hi there 👋
+### 구닌 구닌 구구닌 👋
 
 <!--
 **tolelom/tolelom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
