@@ -14,4 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-http://mazassumnida.wtf/api/generate_badge?boj=tolelom
+
+
+<p align="center">
+  <a href="https://solved.ac/tolelom">
+    
+  ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tolelom)
+
+  </a>
+  <a href="https://www.codewars.com/users/tolelom">
+  
+   ![Codewars Profile](https://www.codewars.com/users/tolelom/badges/large)
+    
+  </a>
+</p>
