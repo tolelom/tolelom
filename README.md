@@ -1,5 +1,7 @@
-### 구닌 구닌 구구닌 👋
+### 구닌(~22.02.28) 👋
 
+ - 알고리즘에 관심이 많은 대학생
+ - 
 <!--
 **tolelom/tolelom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
