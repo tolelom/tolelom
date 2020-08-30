@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://solved.ac/tolelom">
     
-  ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tolelom)
+  ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tolelom)
 
   </a>
 </p>
