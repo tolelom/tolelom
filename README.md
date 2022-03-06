@@ -1,6 +1,6 @@
 ### 대학생
 
- - 알고리즘 
+ - 알고리즘 좋아합니다
  - 
 <!--
 **tolelom/tolelom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
