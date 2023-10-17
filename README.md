@@ -26,4 +26,3 @@ Here are some ideas to get you started:
 </p>
 
 
-![soldierDate](http://goonba.xyz/?endDate=20220228)
