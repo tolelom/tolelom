@@ -1,5 +1,5 @@
-### 개발자 하고 싶어요
- - 이것 저것 하려는 중
+### 개발자가 되기 위해서
+ - 이것 저것 하고 있습니다.
 
 <p align="center">
   <a href="https://solved.ac/tolelom">
