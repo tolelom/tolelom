@@ -33,10 +33,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolelom)](https://github.com/anuraghazra/github-readme-stats)
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolelom&layout=compact&langs_count=8&theme=tokyonight"/>
+<p align="center">
+  <a href="https://github.com/tolelom/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=tolelom" alt="Tolelom's GitHub stats" />
+  </a>
+</p>
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolelom&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ### 🔥 Streak Stats
