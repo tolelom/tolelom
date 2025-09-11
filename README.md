@@ -6,7 +6,9 @@
 
 
    
+<p align="center">
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tolelom)](https://solved.ac/tolelom)
+</p>
 
 <img src="https://topsolved.mayonedev.com/api/boj?handle=tolelom&row=25&base_color=default">
 
