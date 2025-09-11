@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/tolelom/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=tolelom&show icons=true&theme=tokyonight" alt="Tolelom's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tolelom&show_icons=true&theme=tokyonight" alt="Tolelom's GitHub stats" />
   </a>
 </p>
 
