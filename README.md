@@ -27,3 +27,17 @@
 - Unreal Engine 5
 - 프로그래밍 언어 설계 및 구현
 - 알고리즘 최적화
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=tolelom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolelom&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+### 🔥 Streak Stats
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tolelom&theme=tokyonight" alt="GitHub Streak" />
+</div>
