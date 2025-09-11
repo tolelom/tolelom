@@ -4,9 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Unity+Game+Developer;Programming+Language+Creator;Algorithm+Problem+Solver;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tolelom)](https://solved.ac/tolelom)
-</div>
+<p align="center">
+  <a href="https://solved.ac/tolelom">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=tolelom" alt="Solved.ac 프로필 배지" />
+  </a>
+</p>
+
 
 <img src="https://topsolved.mayonedev.com/api/boj?handle=tolelom&row=25&base_color=default">
 
