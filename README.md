@@ -27,6 +27,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Currently Learning
+- Unity 3D Modeling
 - Unreal Engine 5
 - 프로그래밍 언어 설계 및 구현
 - 알고리즘 최적화
