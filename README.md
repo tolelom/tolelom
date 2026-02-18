@@ -34,14 +34,6 @@
 
 ## 📊 GitHub Stats
 
-<div>
-  <a href="https://github.com/tolelom/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=tolelom&show_icons=true&theme=tokyonight" alt="Tolelom's GitHub stats" />
-  </a>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolelom&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 ### 🔥 Streak Stats
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolelom&theme=tokyonight" alt="GitHub Streak" />
