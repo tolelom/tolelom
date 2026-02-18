@@ -33,8 +33,6 @@
 - 알고리즘 최적화
 
 ## 📊 GitHub Stats
-
-### 🔥 Streak Stats
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolelom&theme=tokyonight" alt="GitHub Streak" />
 </div>
