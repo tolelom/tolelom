@@ -12,6 +12,27 @@
 
 <img src="https://topsolved.mayonedev.com/api/boj?handle=tolelom&row=25&base_color=default">
 
+## Links
+- [tolelom.xyz](https://tolelom.xyz)
+
+## Projects
+
+### Programming Languages
+- [hong-ik](https://github.com/hongik2023graduationproject/hong-ik)
+- [dubong-language](https://github.com/tolelom/dubong-language)
+
+### Games
+- [Neo-Slasher](https://github.com/Neo-Slasher/Neo-Slasher_Refactoring)
+- [Project-RA](https://github.com/kebap-studio/Project-RA)
+
+### Backend / Infra
+- [tolelog](https://github.com/tolelom/tolelog)
+- [tolchain](https://github.com/tolelom/tolchain)
+- [sion](https://github.com/tolelom/sion) / [backend](https://github.com/tolelom/sion-backend) / [frontend](https://github.com/tolelom/sion-frontend)
+
+### ML
+- [gymnasium](https://github.com/tolelom/gymnasium)
+
 ## Tech Stack
 
 ### Languages
