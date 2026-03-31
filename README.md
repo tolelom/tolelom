@@ -18,20 +18,33 @@
 ## Projects
 
 ### Programming Languages
-- [hong-ik](https://github.com/hongik2023graduationproject/hong-ik)
+- [hong-ik](https://github.com/hongik2023graduationproject/hong-ik) — 한글 프로그래밍 언어
 - [dubong-language](https://github.com/tolelom/dubong-language)
 
 ### Games
-- [Neo-Slasher](https://github.com/Neo-Slasher/Neo-Slasher_Refactoring)
-- [Project-RA](https://github.com/kebap-studio/Project-RA)
+- [Neo-Slasher](https://github.com/Neo-Slasher/Neo-Slasher_Refactoring) — 모바일 뱀서라이크
+- [Project-RA](https://github.com/kebap-studio/Project-RA) — 로그라이크 액션
+- [PocketBall](https://github.com/tolelom/PocketBall) — 포켓볼 시뮬레이터
 
-### Backend / Infra
-- [tolelog](https://github.com/tolelom/tolelog)
-- [tolchain](https://github.com/tolelom/tolchain)
-- [sion](https://github.com/tolelom/sion) / [backend](https://github.com/tolelom/sion-backend) / [frontend](https://github.com/tolelom/sion-frontend)
+### Blog
+- [tolelog](https://github.com/tolelom/tolelog) — 프론트엔드 (React + TypeScript)
+- [tolelog-backend](https://github.com/tolelom/tolelog-backend) — 백엔드 (Go Fiber)
+
+### Blockchain
+- [tolchain](https://github.com/tolelom/tolchain) — 게임 특화 프라이빗 블록체인
+
+### AGV / Robotics
+- [sion](https://github.com/tolelom/sion) — 로봇 제어 (Python)
+- [sion-backend](https://github.com/tolelom/sion-backend) — 백엔드 (Go Fiber)
+- [sion-frontend](https://github.com/tolelom/sion-frontend) — 대시보드 (React)
 
 ### ML
-- [gymnasium](https://github.com/tolelom/gymnasium)
+- [gymnasium](https://github.com/tolelom/gymnasium) — 강화학습 커스텀 환경
+- [battle_city_deep_learning](https://github.com/tolelom/battle_city_deep_learning) — 배틀시티 강화학습
+
+### Other
+- [All_In_One_Infotainment_System](https://github.com/tolelom/All_In_One_Infotainment_System) — 차량 인포테인먼트
+- [algorithm](https://github.com/tolelom/algorithm) — 알고리즘 풀이
 
 ## Tech Stack
 
