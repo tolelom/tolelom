@@ -8,8 +8,6 @@
   </a>
 </p>
 
-<img src="https://topsolved.mayonedev.com/api/boj?handle=tolelom&row=25&base_color=default">
-
 ## Links
 - [tolelom.xyz](https://tolelom.xyz)
 
