@@ -6,7 +6,7 @@
 
 궁금한 게 생기면 직접 만들어 보는 개발자입니다.
 
-## 대표 작업
+## 대표 프로젝트
 
 ### Claw Machine Shop Simulator
 
