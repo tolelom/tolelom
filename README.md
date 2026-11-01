@@ -11,7 +11,7 @@
 ### Claw Machine Shop Simulator
 
 UE5 경영 시뮬레이션  
-[Steam 스토어](https://store.steampowered.com/app/4745630/Claw_Machine_Shop_Simulator/)
+[Steam 스토어](https://store.steampowered.com/app/5459000/Claw_Machine_Shop_Simulator/)
 
 ### One of the Plans
 
